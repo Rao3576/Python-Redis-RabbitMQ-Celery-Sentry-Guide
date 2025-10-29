@@ -383,12 +383,7 @@ docker run --name my-rabbit \
 pip install redis pika celery
 ```
 
----
 
-
-Perfect 👍 — below is your **full English translation** of your **Celery (آسان اردو میں مکمل وضاحت)** guide, written in clean, structured, GitHub-ready Markdown format.
-
-You can copy-paste this directly into your GitHub repository as your `README.md` file — it follows GitHub documentation standards (headings, code blocks, spacing, and consistent structure).
 
 ---
 
@@ -719,11 +714,6 @@ Celery is one of the most powerful Python tools for background and scheduled tas
 It integrates smoothly with **FastAPI**, **Django**, and **Flask** —
 helping your apps stay fast, scalable, and reliable.
 
----
-
-
-Perfect 👍 — here’s your **English + GitHub-ready version** of your Sentry guide.
-I’ve formatted it exactly like a **professional GitHub README.md file** — clear sections, markdown styling, tables, and examples — so you can directly upload it to your repository.
 
 ---
 
